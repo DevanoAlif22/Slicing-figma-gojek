@@ -77,6 +77,12 @@ nav a {
   margin-top: -50px;
 }
 
+.card-orang:hover {
+  cursor: pointer;
+  margin-top: -100px;
+  transition: all 0.4s ease-in-out;
+}
+
 .card-orang h4 {
   margin-bottom: 20px;
   margin-top: 10px;
@@ -101,6 +107,12 @@ nav a {
   border-radius: 25px;
   margin-right: 20px;
   margin-bottom: 60px;
+}
+
+.card-skala:hover {
+  cursor: pointer;
+  margin-top: -30px;
+  transition: all 0.5s ease-in-out;
 }
 
 .card-skala h3 {
@@ -173,6 +185,18 @@ nav a {
   margin-right: 60px;
   margin-bottom: 70px;
 }
+
+.card-bertumbuh:hover {
+  cursor: pointer;
+  background-color: white;
+  color: #101820;
+  transition: all 0.3s ease-in-out;
+}
+
+.card-slider:hover {
+  box-shadow: rgba(0, 174, 0, 0.484) 0px 5px 15px;
+}
+
 .card-bertumbuh h4 {
   padding-top: 20px;
   margin-bottom: 10px;
@@ -295,6 +319,7 @@ a.app {
   width: 30px;
   margin-right: 1rem;
 }
+
 @media (max-width: 520px) {
   .card-bertumbuh {
     margin-right: 0px;
@@ -309,5 +334,9 @@ a.app {
   .apps h3 {
     font-size: 2rem;
     width: 60%;
+  }
+
+  .card-orang {
+    margin-bottom: 30px;
   }
 }
