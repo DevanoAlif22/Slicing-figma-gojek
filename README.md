@@ -8,6 +8,47 @@
 
 <h1>Tampilan Website</h1>
 <ul>
- <li>Navbar dan Hero</li>
- <img src="assets/navhero.png" alt="" />
+ <li>Navbar dan Hero </li>
+</br>
+ <img src="assets/section-navhero.png" alt="" />
+
+ 
+<li>Section Perkenalan </li>
+</br>
+ <img src="assets/section-perkenalan.png" alt="" />
+
+ 
+ <li>Section Skala </li>
+</br>
+ <img src="assets/section-skala.png" alt="" />
+
+ 
+ <li>Section Caraousel</li>
+</br>
+ <img src="assets/section-caraousel.png" alt="" />
+
+ 
+ <li>Section Bertumbuh </li>
+</br>
+ <img src="assets/section-tumbuh.png" alt="" />
+
+ 
+ <li>Section Slider </li>
+</br>
+ <img src="assets/section-slider.png" alt="" />
+
+ 
+ <li>Section Perjalanan </li>
+</br>
+ <img src="assets/section-perjalanan.png" alt="" />
+
+ 
+ <li>Section Aplikasi </li>
+</br>
+ <img src="assets/section-aplikasi.png" alt="" />
+
+ 
+ <li>Footer </li>
+</br>
+ <img src="assets/section-footer.png" alt="" />
 </ul>
